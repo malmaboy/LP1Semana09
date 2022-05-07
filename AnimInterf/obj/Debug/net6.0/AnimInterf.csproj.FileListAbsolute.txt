@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/bin/Debug/net6.0/AnimInterf
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/bin/Debug/net6.0/AnimInterf.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/bin/Debug/net6.0/AnimInterf.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/bin/Debug/net6.0/AnimInterf.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/bin/Debug/net6.0/AnimInterf.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.csproj.AssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/refint/AnimInterf.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/AnimInterf.genruntimeconfig.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/AnimInterf/obj/Debug/net6.0/ref/AnimInterf.dll
