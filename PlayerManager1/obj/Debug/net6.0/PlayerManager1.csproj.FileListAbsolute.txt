@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/bin/Debug/net6.0/PlayerManager1
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/bin/Debug/net6.0/PlayerManager1.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/bin/Debug/net6.0/PlayerManager1.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/bin/Debug/net6.0/PlayerManager1.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/bin/Debug/net6.0/PlayerManager1.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.csproj.AssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/refint/PlayerManager1.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/PlayerManager1.genruntimeconfig.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana09/PlayerManager1/obj/Debug/net6.0/ref/PlayerManager1.dll
